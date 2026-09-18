@@ -1,17 +1,20 @@
-# Skill: servicio-comunitario
+# project-skills
 
-Skill de [Claude Code](https://claude.com/claude-code) para construir y extender
-**módulos web PHP** de los sistemas de la **Alcaldía de Maracaibo** desarrollados
-como parte de un servicio comunitario.
+Colección de [skills de Claude Code](https://claude.com/claude-code) para mis
+proyectos de **servicio comunitario** (sistemas web de la Alcaldía de Maracaibo).
+Aquí se irán agregando los skills que reutilizo entre proyectos.
 
-Captura la arquitectura y las convenciones ya probadas en los proyectos
-`mcbo-protocolo` y `maracaibo-gaita` para poder crear un módulo completo
-(registro, historial, edición, borrado, exportación y estadísticas) de forma
-rápida y consistente, partiendo de **cualquier fuente de datos**: un formulario
-de KoboToolbox, un PDF, fotos o escaneos de una planilla, un Google Forms, un
+## Skills en esta colección
+
+### `servicio-comunitario`
+
+Construye y extiende **módulos web PHP** de los sistemas de la Alcaldía de
+Maracaibo. Captura la arquitectura y convenciones ya probadas en los proyectos
+`mcbo-protocolo` y `maracaibo-gaita` para crear un módulo completo (registro,
+historial, edición, borrado, exportación y estadísticas) de forma rápida y
+consistente, partiendo de **cualquier fuente de datos**: un formulario de
+KoboToolbox, un PDF, fotos o escaneos de una planilla, un Google Forms, un
 documento de texto/Word, una hoja de cálculo, o incluso una descripción verbal.
-
-## Qué incluye
 
 ```
 servicio-comunitario/
